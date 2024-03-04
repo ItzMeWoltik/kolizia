@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\kolizia\kolizia\obj\Debug\net7.0\kolizia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\kolizia\kolizia\obj\Debug\net7.0\kolizia.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\kolizia\kolizia\obj\Debug\net7.0\kolizia.AssemblyInfo.cs
+C:\Users\admin\Desktop\kolizia\kolizia\obj\Debug\net7.0\kolizia.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\kolizia\kolizia\bin\Debug\net7.0\kolizia.exe
+C:\Users\admin\Desktop\kolizia\kolizia\bin\Debug\net7.0\kolizia.deps.json
+C:\Users\admin\Desktop\kolizia\kolizia\bin\Debug\net7.0\kolizia.runtimeconfig.json
+C:\Users\admin\Desktop\kolizia\kolizia\bin\Debug\net7.0\kolizia.dll
+C:\Users\admin\Desktop\kolizia\kolizia\bin\Debug\net7.0\kolizia.pdb
+C:\Users\admin\Desktop\kolizia\kolizia\obj\Debug\net7.0\kolizia.dll
+C:\Users\admin\Desktop\kolizia\kolizia\obj\Debug\net7.0\refint\kolizia.dll
+C:\Users\admin\Desktop\kolizia\kolizia\obj\Debug\net7.0\kolizia.pdb
+C:\Users\admin\Desktop\kolizia\kolizia\obj\Debug\net7.0\kolizia.genruntimeconfig.cache
+C:\Users\admin\Desktop\kolizia\kolizia\obj\Debug\net7.0\ref\kolizia.dll
